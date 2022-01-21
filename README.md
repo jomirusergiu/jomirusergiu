@@ -1,6 +1,6 @@
-## Jomiru Sergiu  -  Computer Science Engineer
+## Jomiru Sergiu
 My name is Sergiu, and being working in tech industry as an engineer, techlead, manager and executive for over<br />15 years, I was able to gain solid knowledge about how to define, plan, create and maintain projects from scratch.
-<br /><br />
+
 Together with such organizations as BBC, Autodesk, Reazon, Payall and many others, I have had the opportunity<br />to contribute to great products, from which I've gained the proper understanding on how important is teamwork<br />and cooperation for achieving great goals and making the world a better place.
 
 ### ※ Tech Stack & Tools:
