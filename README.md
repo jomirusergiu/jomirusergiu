@@ -3,13 +3,10 @@ My name is Sergiu, and being working in tech industry as an engineer, techlead, 
 
 Together with such organizations as BBC, Autodesk, Reazon, Payall and many others, I have had the opportunity<br />to contribute to great products, from which I've gained the proper understanding on how important is teamwork<br />and cooperation for achieving great goals and making the world a better place.
 
-### ※ Tech Stack & Tools:
+### ※ Tech stack & paradigms:
 - C, C++, C#/.NET, Java, Kotlin, ObjectiveC, Swift, TypeScript, JavaScript, Golang, Lua, Python, Ruby, PHP,<br />MySQL, ASM, Unity3D, UE4, Cocos2dX, Godot, JIRA, AWS, Jenkins, Git, ROS, IOT, MATLAB & Simulink.
 
-### ※ Academics, Paradigms & Principles:
 - Object Oriented Programming, Functional Programming, Clean Code, Dev Ops, Agile, Scrum, Waterfall,<br />Kanban, Lean, Software Architecture, GOF Design Patterns, Test Driven Development, Data Structures,<br />HigherAlgebra, Stochastics, Numeric Methods, Integrated Circuits, Control Theory, etc.
-
-
 
 ### ※ Areas of expertise:
 
@@ -21,7 +18,7 @@ Together with such organizations as BBC, Autodesk, Reazon, Payall and many other
 - Budget, Quality and Cost Control
 - Project and Team Management
 
-### ※ Contact Details:
+### ※ Contact details:
 - Address: Tokyo, Edogawa-ku, Nishikasai, 8-9-16
 - Linkedin: https://linkedin.com/in/jomirusergiu
 - Portfolio: https://jomirusergiu.pb.online
