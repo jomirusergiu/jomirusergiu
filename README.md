@@ -4,7 +4,7 @@ My name is Sergiu, and being working in tech industry as an engineer, techlead, 
 Together with such organizations as BBC, Autodesk, Reazon, Payall and many others, I have had the opportunity<br />to contribute to great products, from which I've gained the proper understanding on how important is teamwork<br />and cooperation for achieving great goals and making the world a better place.
 
 ### ※ Tech stack & paradigms:
-- C, C++, C#/.NET, Java, Kotlin, ObjectiveC, Swift, TypeScript, JavaScript, Golang, Lua, Python, Ruby, PHP,<br />MySQL, ASM, Unity3D, UE4, Cocos2dX, Godot, JIRA, AWS, Jenkins, Git, ROS, IOT, MATLAB & Simulink.
+- C, C++, C#/.NET, Java, Kotlin, ObjectiveC, Swift, TypeScript, JavaScript, Golang, Python, Ruby, PHP,<br />MySQL, ASM, Unity3D, UE4, Cocos2dX, Godot, JIRA, AWS, Jenkins, Git, ROS, IOT, MATLAB & Simulink.
 
 - Object Oriented Programming, Functional Programming, Clean Code, Dev Ops, Agile, Scrum, Waterfall,<br />Kanban, Lean, Software Architecture, GOF Design Patterns, Test Driven Development, Data Structures,<br />HigherAlgebra, Stochastics, Numeric Methods, Integrated Circuits, Control Theory, etc.
 
@@ -19,10 +19,10 @@ Together with such organizations as BBC, Autodesk, Reazon, Payall and many other
 - Project and Team Management
 
 ### ※ Contact details:
-- Address: Tokyo, Edogawa-ku, Nishikasai, 8-9-16
-- Linkedin: https://linkedin.com/in/jomirusergiu
-- Portfolio: https://jomirusergiu.pb.online
-- Resume: https://shorturl.at/nHMU3
+- Address: [Japan, Tokyo](https://www.google.com/maps/place/%E3%80%92134-0088+Tokyo,+Edogawa+City,+Nishikasai,+8-ch%C5%8Dme%E2%88%929%E2%88%9216+%E7%AC%AC%EF%BC%93%E3%82%B5%E3%83%B3%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3/data=!4m2!3m1!1s0x601887fb0d105849:0xf5b8cc99c471d395?sa=X&ved=2ahUKEwi7kLzgpML1AhWPF4gKHVomB-4Q8gF6BAgdEAE)
+- Linkedin: [linkedin.com/in/jomirusergiu](https://linkedin.com/in/jomirusergiu)
+- Portfolio: [jomirusergiu.pb.online](https://jomirusergiu.pb.online)
+- Resume: [shorturl.at/nHMU3](https://shorturl.at/nHMU3)
 - Email: jomirusergiu@gmail.com
 - Phone: +81-80-8846-9972
 
