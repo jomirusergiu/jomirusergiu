@@ -4,17 +4,19 @@ My name is Sergiu, and by have being working in the tech industry as an engineer
 Together with such organizations as BBC, Autodesk, Reazon, Payall and many others, I have had the opportunity to contribute to great products, from which I have gained the proper understanding on how important is teamwork and cooperation for achieving great goals & make the world a better place.
 
 ### ※ Tech stack & paradigms:
-- C/C++, C#/.NET, Java/Kotlin, ObjectiveC/Swift,<br />
-JavaScript/TypeScript, Go, Lua, Python, Ruby, PHP,<br />
-MySQL, Rust, Dart, Scala, Pascal & Delphi, Haskell,<br />
-ASM, Unity3D, UE4, Cocos2dX, Godot, JIRA, AWS,<br />
-Jenkins, Git/SVN, ROS, IOT, MATLAB & Simulink.
+- C, C++, C# / .NET, Java, Kotlin, Objective C,<br />
+Swift, JavaScript/TypeScript, Python, Ruby,<br />
+Go, Lua, PHP, MySQL, Scala, Pascal/Delphi,<br />
+Rust, Dart, Haskell, ASM, AWS, Jenkins, Git,<br />
+SVN, Unity3D, UE4, Cocos2dx, Godot, JIRA,<br />
+ROS, IOT, MATLAB & Simulink.
 
-- OOP and Functional Programming, Clean Code,<br />
-DevOps, Agile/Scrum, Waterfall, Kanban, Lean,<br />
-Software Architecture & Design Patterns, TDD,<br />
-Data Structures, Stochastics, Control Theory,<br />
-Integrated Circuits, Numerical Methods, etc.
+- OOP/Functional Programming, Clean Code,<br />
+DevOps, Agile & Scrum, Waterfall, Kanban,<br />
+Lean, Software Architectures / GOF Design <br />
+Patterns, TDD, Data Structures, Numerical<br />
+Methods and Higher Algrebra, Stochastics,<br />
+Control Theory, Integrated Circuits, etc.
 
 ### ※ Areas of expertise:
 
