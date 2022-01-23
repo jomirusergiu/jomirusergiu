@@ -13,7 +13,7 @@ Unity 3D, UE4, Cocos2d-X, Godot3,<br />
 OpenGL, ROS, MATLAB & Simulink.
 
 - OOP & Programming Paradigms,
-CleanCode, Dev Ops, Agile/Scrum,
+CleanCode, DevOps, Agile, Scrum,
 Waterfall, Kanban, Design Patterns,<br />
 Software Architecture, Stochastics,
 Controll Theory, Integrated Circuits,
