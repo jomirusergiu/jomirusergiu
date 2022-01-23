@@ -12,12 +12,12 @@ AWS & GCP, Jenkins, Git/SVN, JIRA,
 Unity 3D, UE4, Cocos2d-X, Godot3,<br />
 OpenGL, ROS, MATLAB & Simulink.
 
-- OOP & Programming Paradigms,
-Clean Code, Dev Ops, Agile/Scrum,
-Waterfall, Kanban, Design Patterns,<br />
-Software Architecture, Stochastics,
-Control Theory, Integrated Circuits,
-Data Structure, Numerical Methods,<br />
+- OOP/other programming paradigms,
+CleanCode, Dev Ops, Agile, Scrum,
+Waterfall & Kanban, Design Patterns,<br />
+Software Architectures, Stochastics,
+Control Theory & Integrated Circuits,
+Data Structures, Numerical Methods,<br />
 Higher Algrebra, TDD and BDD, etc
 
 ### ※ Areas of expertise:
