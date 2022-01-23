@@ -8,16 +8,17 @@ Together with such organizations as BBC, Autodesk, Reazon, Payall and many other
 Objective C, JavaScript, TypeScript,<br />
 Python, Pascal/Delphi, PHP, MySQL,<br />
 Scala & Dart, Go, Lua, Rust, Haskell,<br />
-AWS, GCP, Jenkins, Git/SVN, Godot,<br />
-Unity3D, UE4, Cocos2d-X, OpenGL,<br />
-JIRA, ROS, IOT, MATLAB & Simulink.
+AWS & GCP, Jenkins, Git/SVN, JIRA,<br />
+Unity 3D, UE4, Cocos2d-X, Godot 3,<br />
+OpenGL, ROS, MATLAB & Simulink.
 
-- OOP/Functional Programming, Clean Code,<br />
-DevOps, Agile & Scrum, Waterfall, Kanban,<br />
-Lean, Software Architectures / GOF Design <br />
-Patterns, TDD, Data Structures, Numerical<br />
-Methods and Higher Algrebra, Stochastics,<br />
-Control Theory, Integrated Circuits, etc.
+- OOP/other programming paradigms,<br />
+Clean Code, DevOps, Agile, Scrum, <br />
+Waterfall, Kanban, Design Patterns,<br />
+Software Architecture, Stochastics, <br />
+Control Theory, Integrated Circuits,<br />
+Data Structures, Numeric Methods,<br />
+Higher Algrebra, TDD and BDD, etc<br />
 
 ### ※ Areas of expertise:
 
