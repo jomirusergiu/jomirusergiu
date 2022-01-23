@@ -17,8 +17,8 @@ CleanCode, Dev Ops, Agile/Scrum,
 Waterfall, Kanban, Design Patterns,<br />
 Software Architecture, Stochastics,
 Control Theory, Integrated Circuits,
-Data Structure, Numerical Methods,<br />
-Higher Algrebra, TDD and BDD, etc
+Higher Algrebra, Numerical Method,<br />
+Data Structure, TDD and BDD, etc
 
 ### ※ Areas of expertise:
 
