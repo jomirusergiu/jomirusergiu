@@ -1,12 +1,12 @@
 ## Jomiru Sergiu
-My name is Sergiu, and being working in tech industry as an engineer, techlead, manager and executive for over<br />15 years, I was able to gain solid knowledge about how to define, plan, create and maintain projects from scratch.
+My name is Sergiu, and by have being working in the tech industry as an engineer, techlead, manager and executive for the past fifteen years, I was able to actually gain solid knowledge about how to define, plan, create and to maintain projects from scratch.
 
-Together with such organizations as BBC, Autodesk, Reazon, Payall and many others, I have had the opportunity<br />to contribute to great products, from which I've gained the proper understanding on how important is teamwork<br />and cooperation for achieving great goals and making the world a better place.
+Together with such organizations as BBC, Autodesk, Reazon, Payall and many others, I have had the opportunity to contribute to great products, from which I have gained the proper understanding on how important is teamwork and cooperation for achieving great goals and making the world a better place.
 
 ### ※ Tech stack & paradigms:
 - C, C++, C#/.NET, Java, Kotlin, ObjectiveC, Swift, TypeScript, JavaScript, Golang, Python, Ruby, PHP,<br />MySQL, ASM, Unity3D, UE4, Cocos2dX, Godot, JIRA, AWS, Jenkins, Git, ROS, IOT, MATLAB & Simulink.
 
-- Object Oriented Programming, Functional Programming, Clean Code, Dev Ops, Agile, Scrum, Waterfall,<br />Kanban, Lean, Software Architecture, GOF Design Patterns, Test Driven Development, Data Structures,<br />HigherAlgebra, Stochastics, Numeric Methods, Integrated Circuits, Control Theory, etc.
+- Object Oriented Programming, Functional Programming, Clean Code, Dev Ops, Agile, Scrum, Waterfall,<br />Kanban, Lean, Software Architecture, GOF Design Patterns, Test Driven Development, Data Structures,<br />Higher Algebra, Stochastics, Numeric Methods, Integrated Circuits, Control Theory, etc.
 
 ### ※ Areas of expertise:
 
