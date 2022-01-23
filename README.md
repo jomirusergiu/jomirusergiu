@@ -10,7 +10,7 @@ Python, Pascal/Delphi, PHP, MySQL,<br />
 Scala & Dart, Go, Lua, Rust, Haskell,
 AWS & GCP, Jenkins, Git/SVN, JIRA,
 Unity 3D, UE4, Cocos2d-X, Godot3,<br />
-OpenGL, ROS, MATLAB & Simulink.
+ROS, MATLAB/Simulink, OpenRocket
 
 - OOP & Programming Paradigms,
 CleanCode, DevOps, Agile, Scrum,
