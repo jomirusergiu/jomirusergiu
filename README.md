@@ -4,12 +4,13 @@ My name is Sergiu, and by have being working in the tech industry as an engineer
 Together with such organizations as BBC, Autodesk, Reazon, Payall and many others, I have had the opportunity to contribute to great products, from which I have gained the proper understanding on how important is teamwork and cooperation for achieving great goals & make the world a better place.
 
 ### ※ Tech stack & paradigms:
-- C, C++, C# / .NET, Java, Kotlin, Objective C,<br />
-Swift, JavaScript/TypeScript, Python, Ruby,<br />
-Go, Lua, PHP, MySQL, Scala, Pascal/Delphi,<br />
-Rust, Dart, Haskell, ASM, AWS, Jenkins, Git,<br />
-SVN, Unity3D, UE4, Cocos2dx, Godot, JIRA,<br />
-ROS, IOT, MATLAB & Simulink.
+- C/C++, C# / .NET, Java/Kotlin, Swift,<br />
+Objective C, JavaScript, TypeScript,<br />
+Python, Pascal/Delphi, PHP, MySQL,<br />
+Scala & Dart, Go, Lua, Rust, Haskell,<br />
+AWS, GCP, Jenkins, Git/SVN, Godot,<br />
+Unity3D, UE4, Cocos2d-X, OpenGL,<br />
+JIRA, ROS, IOT, MATLAB & Simulink.
 
 - OOP/Functional Programming, Clean Code,<br />
 DevOps, Agile & Scrum, Waterfall, Kanban,<br />
