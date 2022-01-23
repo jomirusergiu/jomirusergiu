@@ -16,9 +16,9 @@ OpenGL, ROS, MATLAB & Simulink.
 CleanCode, Dev Ops, Agile/Scrum,
 Waterfall, Kanban, Design Patterns,<br />
 Software Architecture, Stochastics,
-Control Theory, Integrated Circuits,
+Controll Theory, Integrated Circuits,
 Higher Algrebra, Numerical Method,<br />
-Data Structure, TDD and BDD, etc
+Data Structures, TDD and BDD, etc
 
 ### ※ Areas of expertise:
 
