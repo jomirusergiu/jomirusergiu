@@ -24,21 +24,21 @@ Orbital Mechanics, Stochastics, GNC / AOCS.
 
 ### ※ Areas of expertise:
 
-- Software, Games and A.I. Development
-- Debug, Testing & Automation Pipeline
-- System Architecture & Task Planning
-- Process & Productivity Improvement
-- Vendor and Contract Negotiations
-- Budget, Quality and Cost Control
-- Project and Team Management
+・ Software, Games and A.I. Development<br />
+・ Debug, Testing & Automation Pipeline<br />
+・ System Architecture & Task Planning<br />
+・ Process & Productivity Improvement<br />
+・ Vendor and Contract Negotiations<br />
+・ Budget, Quality and Cost Control<br />
+・ Project and Team Management<br />
 
 ### ※ Contact details:
-- Address: [Japan, Tokyo](https://www.google.com/maps/@35.6577349,139.8613669,3a,75y,331.62h,97.17t/data=!3m6!1e1!3m4!1sH_0vRhdEg8S0SidBRaGLpA!2e0!7i16384!8i8192)
-- Linkedin: [linkedin.com/in/jomirusergiu](https://linkedin.com/in/jomirusergiu)
-- Portfolio: [jomirusergiu.pb.online](https://jomirusergiu.pb.online)
-- Resume: [shorturl.at/nHMU3](https://shorturl.at/nHMU3)
-- Email: jomirusergiu@gmail.com
-- Phone: +81-80-8846-9972
+・ Address: [Japan, Tokyo](https://www.google.com/maps/@35.6577349,139.8613669,3a,75y,331.62h,97.17t/data=!3m6!1e1!3m4!1sH_0vRhdEg8S0SidBRaGLpA!2e0!7i16384!8i8192)<br />
+・ Linkedin: [linkedin.com/in/jomirusergiu](https://linkedin.com/in/jomirusergiu)<br />
+・ Portfolio: [jomirusergiu.pb.online](https://jomirusergiu.pb.online)<br />
+・ Resume: [shorturl.at/nHMU3](https://shorturl.at/nHMU3)<br />
+・ Email: jomirusergiu@gmail.com<br />
+・ Phone: +81-80-8846-9972<br />
 
 <!--
 **jomirusergiu/jomirusergiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
