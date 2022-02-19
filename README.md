@@ -29,7 +29,7 @@ Orbital Mechanics, Stochastics, GNC, AOCS.
 ・ Improving Efficiency and Processes<br />
 ・ Planning and System Architecture<br />
 ・ Testing and Automation Pipeline<br />
-・ Client and Contract Negotiation<br />
+・ Vendor Contract Negotiations<br />
 ・ Budget and Quality Control<br />
 
 ### ※ Contact details:
