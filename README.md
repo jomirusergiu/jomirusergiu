@@ -19,7 +19,7 @@ MATLAB and Simulink, Open Rocket, Q-GIS.
 ・Agile/Scrum, Kanban, Lean, Waterfall, OOP,
 CleanCode, GOF - Software Design Patterns,<br />
 Microprocessors, Control Theory, Propulsion,
-Stochastics, Orbital Mechanics, GNC, AOCS.
+Stochastics, Orbital Mechanics, GNC / AOCS.
 
 
 ### ※ Areas of expertise:
