@@ -18,7 +18,7 @@ MATLAB and Simulink, Open Rocket, ROS 2.
 
 ・Agile/Scrum, Kanban, Lean, Waterfall, OOP,
 CleanCode, GOF - Software Design Patterns,<br />
-Propulsion, Control Theory, Integrated Circuit,
+Propulsion, ControlTheory, IntegratedCircuit,
 Orbital Mechanics, Stochastics, GNC / AOCS.
 
 
