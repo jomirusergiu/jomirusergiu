@@ -16,7 +16,7 @@ SpriteKit, Py Game, Photon, Arduino, Q-GIS,
 MATLAB and Simulink, Open Rocket, ROS 2.
 
 
-・ Agile/Scrum, Kanban, Lean, Waterfall, OOP,
+・ Agile, SCRUM, Kanban, Lean, Waterfall, OOP,
 CleanCode, GOF Software Design Patterns,<br />
 Propulsion, Control Theory, Integrated Circuit,
 Orbital Mechanics, Stochastics, GNC / AOCS.
