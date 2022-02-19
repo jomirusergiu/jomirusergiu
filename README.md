@@ -5,7 +5,7 @@ Together with such organizations as BBC, Autodesk, Reazon, Payall and many other
 
 ### ※ Tech stack & paradigms:
 ・ C/C++, C#/.NET, Java/Kotlin, ObjectiveC, 
-Swift, Javascript/Typescript, Python, Scala,<br />
+Swift, Javascript, Typescript, Python, Scala,<br />
 Ruby, Dart, Golang, Lua, Rust, PHP, MySQL, 
 PostgreSQL, SQLite, Pascal/Delphi, Haskell.
 
