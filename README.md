@@ -24,7 +24,7 @@ Orbital Mechanics, Stochastics, GNC, AOCS.
 
 ### ※ Areas of expertise:
 
-・ Space, Software and Game Engineering<br />
+・ Software, Games and A.I. Development<br />
 ・ Project and Engineering Management<br />
 ・ Improving Efficiency and Processes<br />
 ・ Planning and System Architecture<br />
