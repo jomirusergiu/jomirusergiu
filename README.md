@@ -1,4 +1,4 @@
-## Jomiru Sergiu &nbsp;🚀
+## Jomiru Sergiu
 My name is Sergiu, and by have being working in the tech industry as an engineer, techlead, manager and executive for the past fifteen years, I was able to actually gain solid knowledge about how to define, plan, create and to maintain projects from scratch.
 
 Together with such organizations as BBC, Autodesk, Reazon, Payall and many others, I have had the opportunity to contribute to great products, from which I have gained the proper understanding on how important is teamwork and cooperation for achieving great goals & make the world a better place.
