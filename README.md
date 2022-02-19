@@ -7,7 +7,7 @@ Together with such organizations as BBC, Autodesk, Reazon, Payall and many other
 ・C, C++, C#/.NET, Java/Kotlin, Objective C, 
 Swift, Javascript, Typescript, Python, Scala,<br />
 Ruby, Dart, Golang, Lua, Rust, PHP, MySQL, 
-PostgreSQL, SQLite, Pascal/Delphi, Haskell.
+PostgreSQL, SQLite, Pascal, Delphi, Haskell.
 
 
 ・JIRA, Confluence, AWS, GCP, Git, Jenkins, 
