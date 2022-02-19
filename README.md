@@ -11,7 +11,7 @@ PostgreSQL, SQLite, Pascal/Delphi, Haskell.
 
 
 ・JIRA, Confluence, AWS, GCP, Git, Jenkins, 
-Unity3D, UE4, Cocos2dX, Godot 3, OpenGL,<br />
+Unity 3D, UE4, Cocos2d-X, Godot, OpenGL,<br />
 SpriteKit, Py Game, Photon, Arduino, ROS 2,
 MATLAB and Simulink, Open Rocket, Q-GIS.
 
