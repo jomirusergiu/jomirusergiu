@@ -12,14 +12,14 @@ PostgreSQL, SQLite, Pascal/Delphi, Haskell.
 
 ・ JIRA/Confluence, AWS, GCP, Git, Jenkins, 
 Unity3D, UE4, Cocos2dX, Godot 3, OpenGL,<br />
-SpriteKit, Py Game, Photon, Arduino, Q-GIS,
-MATLAB and Simulink, Open Rocket, ROS 2.
+SpriteKit, Py Game, Photon, Arduino, ROS 2,
+MATLAB and Simulink, Open Rocket, Q-GIS.
 
 
 ・Agile/Scrum, Kanban, Lean, Waterfall, OOP,
 CleanCode, GOF - Software Design Patterns,<br />
-Propulsion, Control Theory, Microprocessors,
-Orbital Mechanics, Stochastics, GNC, AOCS.
+Microprocessors, Control Theory, Propulsion,
+Stochastics, Orbital Mechanics, GNC, AOCS.
 
 
 ### ※ Areas of expertise:
