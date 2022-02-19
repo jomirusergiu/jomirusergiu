@@ -24,13 +24,13 @@ Orbital Mechanics, Stochastics, GNC, AOCS.
 
 ### ※ Areas of expertise:
 
-・ Software, Games and A.I. Development<br />
-・ Debug, Testing & Automation Pipeline<br />
-・ System Architecture & Task Planning<br />
-・ Process & Productivity Improvement<br />
-・ Vendor and Contract Negotiations<br />
-・ Budget, Quality and Cost Control<br />
-・ Project and Team Management<br />
+・ Space, Software and Game Engineering<br />
+・ Project and Engineering Management<br />
+・ Improving Efficiency and Processes<br />
+・ Planning and System Architecture<br />
+・ Testing and Automation Pipeline<br />
+・ Client and Contract Negotiation<br />
+・ Budget and Quality Control<br />
 
 ### ※ Contact details:
 ・ Address: [Japan, Tokyo](https://www.google.com/maps/@35.6577349,139.8613669,3a,75y,331.62h,97.17t/data=!3m6!1e1!3m4!1sH_0vRhdEg8S0SidBRaGLpA!2e0!7i16384!8i8192)<br />
