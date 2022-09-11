@@ -1,9 +1,9 @@
 ## Jomiru Sergiu
-My name is Sergiu, and I’m an aerospace system engineer working on space, inteligence and defense systems research & development, analysis, orbit determination, spatial awareness, simulation, communication & trajectory/navigation while monitoring full mission lifecycle.
+My name is Sergiu, and I’m an aerospace system engineer working on space, inteligence and defense systems research & development, analysis, orbit determination, spatial awareness, simulations, communications and navigation, while monitoring full mission lifecycle.
 
 We’re providing some of the most advanced space systems solutions for situational awareness and mission analysis. Currently our tools are being used by multiple world-class space and defense organizations, such as NASA, ESA, CNES, JAXA, ISAS, JMA, JMOD and JSDF as well as various other private companies manufacturing rockets, spacecrafts, aircrafts, missiles, satellite and also mission control facilities.
 
-While working in engineering for the past 15 years, I have gained the proper understanding on how important for achieving great goals, is teamwork and cooperation. After changing my career to aerospace, I have had the privilege to work with companies like Ansys AGI, LSAS Tec as well as other partner organizations, where I've had the chance to contribute to mankind development of space technologies.<br /><br />
+While working in engineering for the past 15 years, I have gained the proper understanding on how important for achieving great goals, is teamwork and cooperation. After changing my career to aerospace, I have had the privilege to work with companies like - Ansys AGI, LSAS Tec as well as other partner organizations, where I've had the chance to contribute to mankind development of space technologies.<br /><br />
 
 
 ### ※ Courses, Paradigms & Principles:
