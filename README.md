@@ -1,9 +1,9 @@
 ## Jomiru Sergiu
-My name is Sergiu, and I’m an aerospace system engineer working on space, inteligence and defense systems research & development, analysis, orbit determination, spatial awareness, simulations, communications and navigation, while monitoring the full mission lifecycle.
+My name is Sergiu, I'm an Aerospace System Engineer working on space and defense system R&D, spatial awareness, simulation, communication, navigation and trajectory for entire mission lifecycle.
 
-We’re providing some of the most advanced space systems solutions for situational awareness and mission analysis. Currently our tools are being used by multiple world-class space and defense organizations, such as NASA, ESA, CNES, JAXA, ISAS, JMA, JMOD and JSDF as well as various other private companies manufacturing rockets, spacecrafts, aircrafts, missiles, satellite and also mission control facilities.
+We’re providing some of the most advanced space systems solutions for situational awareness and mission analysis. Our tools are being used by world-class space and defense organizations, such as NASA, ESA, CNES, JAXA, ISAS, JMA, JMOD & JSDF as well as private companies and various other manufacturers of rockets, spacecrafts, aircrafts, missiles, satellites or mission control facilities, etc.
 
-While working in engineering for the past 15 years, I have gained the proper understanding on how important for achieving great goals, is teamwork and cooperation. After changing my career to aerospace, I have had the privilege to work with companies like − Ansys AGI, LSAS Tec as well as other partner organizations, where I've had the chance to contribute to mankind's space technologies development.<br /><br />
+While working in engineering for the past 15 years, I have gained proper understanding on how important teamwork and cooperation is, for achieving great goals. After changing my career to aerospace, I was privileged to work with Ansys AGI, LSAS Tec, and other partner organizations contributing development of the space technologies for humanity.<br /><br />
 
 
 ### ※ Courses, Paradigms & Principles:
