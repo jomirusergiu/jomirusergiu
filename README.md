@@ -3,7 +3,7 @@ My name is Sergiu, I'm an aerospace system engineer working on space and defense
 
 We’re providing some of the most advanced space systems solutions for situational awareness and mission analysis. Our tools are used by world-class space and defense organizations, such as NASA, ESA, CNES, JAXA, ISAS, JMA, JMOD & JSDF as well as private companies and various other manufacturers of rockets, spacecrafts, aircrafts, missiles, satellites or mission control facilities, etc.
 
-While working in engineering for the past 15 years, I have gained proper understanding on how important teamwork and cooperation is, for achieving great goals. After changing my career to aerospace, I was privileged to work with Ansys_AGI, LSAS_Tec, and other partner organizations contributing development of the space technologies for humanity.<br /><br />
+While working in engineering for the past 15 years, I have gained proper understanding on how important teamwork and cooperation is for achieving great goals. After changing my career to aerospace, I was privileged to work with Ansys AGI, LSAS_Tec, and other partner organizations contributing development of the space technologies for humanity.<br /><br />
 
 
 ### ※ Courses, Paradigms & Principles:
