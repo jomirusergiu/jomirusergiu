@@ -1,5 +1,5 @@
 ## Jomiru Sergiu
-My name is Sergiu, and I'm an aerospace system engineer working on space and defense systems research and development, spatial awareness, simulations, analysis, communications, navigations, as well as the trajectory for the entire mission lifecycle.
+My name is Sergiu, Head of Aerospace Systems Engineer working on space and defense systems research and development, spatial awareness, simulations, analysis, communications, navigations, as well as the trajectory for the entire mission lifecycle.
 
 We’re providing some of the most advanced space systems solutions for situational awareness and mission analysis. Our tools have been used by world-class space and defense organizations like - NASA, ESA, CNES, JAXA, ISAS, JMA, JMOD, JSDF, and various other manufacturers of rockets, spacecrafts, aircrafts, missiles, satellites or mission control facilities, etc.
 
@@ -44,12 +44,12 @@ Assembly, Haskell, Fortran, Prolog, Bash/Zhs<br /><br />
 ・ Budget, Quality Control<br /><br />
 
 ### ※ Contact details:
-・ Address: [Japan, Tokyo](https://www.google.com/maps/@35.6577349,139.8613669,3a,75y,331.62h,97.17t/data=!3m6!1e1!3m4!1sH_0vRhdEg8S0SidBRaGLpA!2e0!7i16384!8i8192)<br />
+・ Address: [Japan, Tokyo](https://www.google.com/maps/@35.647845,139.8044248,3a,75y,0.18h,97.08t/data=!3m6!1e1!3m4!1s9pm4w9JINhRtz5k0sh_skg!2e0!7i16384!8i8192)<br />
 ・ Linkedin: [linkedin.com/in/jomirusergiu](https://linkedin.com/in/jomirusergiu)<br />
 ・ Portfolio: [jomirusergiu.pb.online](https://jomirusergiu.pb.online)<br />
 ・ Resume: [shorturl.at/nHMU3](https://shorturl.at/nHMU3)<br />
 ・ Email: jomirusergiu@gmail.com<br />
-・ Phone: +81-80-8846-9972<br /><br />
+・ Phone: +81-70-4167-3986<br /><br />
 
 ### ※ Partners:
 ![jomirusergiu.pb.online](https://dif1tzfqclj9f.cloudfront.net/000_clients/1306812/page/w1000-1306812nQwcv4Ad.png)
