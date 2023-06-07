@@ -1,35 +1,9 @@
 ## Jomiru Sergiu
-My name is Sergiu - Head of Aerospace Systems Engineering, working on space and defense systems research and development, spatial awareness, simulations, analysis, communications, navigations, as well as the trajectory for the entire mission lifecycle.
+Hello, my name is Sergiu, and I’m the Head of Aerospace Systems Engineering at LSAS Tec. I’m working on space, defense & intelligence systems R&D, SSA, mission planning, simulations, orbit determination, maneuver processing, observation association and flight dynamics.
 
-We’re providing some of the most advanced space systems solutions for situational awareness and mission analysis. Our tools have been used by world-class space and defense organizations like - NASA, ESA, CNES, JAXA, ISAS, JMA, JMOD, JSDF, and various other manufacturers of rockets, spacecrafts, aircrafts, missiles, satellites or mission control facilities, etc.
+We’re providing some of the most advanced space systems solutions for situational awareness and mission analysis. Our systems were used in missions like ARTEMIS, JWST, LADEE, IBEX and many more, by world-class space and defense organizations such as NASA, ESA, CNES, JAXA, ISAS, JMA, JMOD & JSDF as well as various private manufacturers of rockets, spacecrafts, aircrafts, missiles, satellites or mission control facilities.
 
-While working in engineering for the past 15 years, I have gained proper understanding, on how important teamwork and cooperation is for achieving great goals. After changing my career to aerospace, I was privileged to work with Ansys AGI, LSAS_Tec, and other partner organizations contributing development of the space technologies for humanity.<br /><br />
-
-
-### ※ Courses, Paradigms & Principles:
-・ ATLO (MSIT), GNC/AOCS, Aerodynamics,
-Mission analysis/design, Orbital Mechanics,<br />
-Control Theory, Space Situation Awareness,
-Integrated Circuits, Stochastics, Propulsion,<br />
-GOF Software Design Patterns, Clean Code,
-Agile, Scrum, Kanban, Lean, Waterfall, OOP<br /><br />
-
-
-### ※ Tools, Engines & Libraries:
-・ Ansys AGI's STK, ODTK & TETK Tool Kits,
-LSAS Tec UMA, Comspoc & Cesium System,<br />
-MATLAB and Simulink, Open Rocket, Q-GIS,
-Unity3D, Cocos2d, Godot, OpenGL, Blender,<br />
-UE, Spritekit, Pygame, Photon, Arduino/ROS,
-JIRA and Confluence, AWS, GCP, Git, Jenkins<br /><br />
-
-
-### ※ Programming & Scripting:
-・ C/C++, C#/.NET, Java/Kotlin, Objective C,
-Swift, Javascript & Typescript, Python, Scala,<br />
-Ruby, Dart, Golang, Lua, Rust, Pascal/Delphi,
-PHP & MySQL, PostgresSQL, NoSQL, SQLite,<br />
-Assembly, Haskell, Fortran, Prolog, Bash/Zhs<br /><br />
+While working in engineering for the past 15 years, I've gained the proper understanding on how important teamwork and cooperation is for achieving great goals, and I have also had the privilege of contributing to development of space technologies and future for all mankind.<br /><br />
 
 
 ### ※ Areas of expertise:
@@ -41,7 +15,35 @@ Assembly, Haskell, Fortran, Prolog, Bash/Zhs<br /><br />
 ・ Systems Architecture Planning<br />
 ・ Testing Automation Pipeline<br />
 ・ Vendor, Client Negotiation<br />
-・ Budget, Quality Control<br /><br />
+・ Budget, Quality Control<br />
+
+### ※ Aerospace & Fundamentals:
+・Mission Analysis, Observation Association,<br />
+Orbit Determination, Maneuvers Processing,<br />
+Rendezvous & Proximity, Sensor Calibration,<br />
+Space Domain / Space Situation Awareness,<br />
+LEO, MEO, GEO, Lunar and Cis Lunar Orbits,<br />
+Orbital Mechanics, Flight & Astro Dynamics,<br />
+Statistics, Stochastics, Probability & Control<br />
+
+
+### ※ Tools, Engines & Libraries:
+・STK/ODTK/TETK, UMA, Cesium, ComSpoc,<br />
+SOLIS, SEG, SOTA, ODSSA and SSA Software,<br />
+Matlab/Simulink, Openrocket, QuantumGIS,<br />
+UE4, Unity3D, Cocos2d-x, OpenGL, Blender,<br />
+SpriteKit, PyGame, Photon, Arduino & ROS,<br />
+JIRA & Confluence, AWS, GCP, Git, Jenkins<br />
+
+
+### ※ Systems Engineering:
+・ C/C++, C#/.NET, Java/Kotlin, Objective C,<br />
+Swift, Javascript & Typescript, Python, Scala,<br />
+Ruby, Dart, Go/Lua, Rust, Pascal and Delphi,<br />
+PHP and MySQL, Assembly, Shell and Bash,<br />
+Agile and SCRUM, Kanban, Lean, Waterfall,<br />
+Software Design Patterns, CleanCode, OOP<br />
+
 
 ### ※ Contact details:
 ・ Address: [Japan, Tokyo](https://www.google.com/maps/@35.647845,139.8044248,3a,75y,0.18h,97.08t/data=!3m6!1e1!3m4!1s9pm4w9JINhRtz5k0sh_skg!2e0!7i16384!8i8192)<br />
