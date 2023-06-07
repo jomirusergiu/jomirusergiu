@@ -3,7 +3,7 @@ Hello, my name is Sergiu, and I’m the Head of Aerospace Systems Engineering at
 
 We’re providing some of the most advanced space systems solutions for situational awareness and mission analysis. Our systems were used in missions like ARTEMIS, JWST, LADEE, IBEX and many more, by world-class space and defense organizations such as NASA, ESA, CNES, JAXA, ISAS, JMA, JMOD & JSDF as well as various private manufacturers of rockets, spacecrafts, aircrafts, missiles and satellites.
 
-While working in engineering for the past 15 years, I've gained the proper understanding on how important teamwork and cooperation is for achieving great goals, and I have also had the privilege of contributing to development & future of space technologies for all mankind.<br /><br />
+While working in engineering for the past 15 years, I've gained the proper understanding on how important teamwork and cooperation is for achieving great goals, and I've also had the privilege of contributing to development & future of space technologies for all mankind.<br /><br />
 
 
 ### ※ Areas of expertise:
