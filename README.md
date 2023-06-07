@@ -1,9 +1,9 @@
 ## Jomiru Sergiu
-Hello, my name is Sergiu, and I’m the Head of Aerospace Systems Engineering at LSAS Tec. I’m working on space, defense & intelligence systems R&D, SSA, mission planning, simulations, orbit determination, maneuver processing, observation association and flight dynamics.
+Hello, my name is Sergiu, and I’m the Head of Aerospace Systems Engineering at LSAS Tec. I’m working on space, defense & intelligence systems R&D, SSA, mission planning, simulations, orbit determination, maneuver processing, observation association & flight dynamics.
 
-We’re providing some of the most advanced space systems solutions for situational awareness and mission analysis. Our systems were used in missions like ARTEMIS, JWST, LADEE, IBEX and many more, by world-class space and defense organizations such as NASA, ESA, CNES, JAXA, ISAS, JMA, JMOD & JSDF as well as various private manufacturers of rockets, spacecrafts, aircrafts, missiles, satellites or mission control facilities.
+We’re providing some of the most advanced space systems solutions for situational awareness and mission analysis. Our systems were used in missions like ARTEMIS, JWST, LADEE, IBEX and many more, by world-class space and defense organizations such as NASA, ESA, CNES, JAXA, ISAS, JMA, JMOD & JSDF as well as various private manufacturers of rockets, spacecrafts, aircrafts, missiles and satellites.
 
-While working in engineering for the past 15 years, I've gained the proper understanding on how important teamwork and cooperation is for achieving great goals, and I have also had the privilege of contributing to development of space technologies and future for all mankind.<br /><br />
+While working in engineering for the past 15 years, I've gained the proper understanding on how important teamwork and cooperation is for achieving great goals, and I have also had the privilege of contributing to development & future of space technologies for all mankind.<br /><br />
 
 
 ### ※ Areas of expertise:
