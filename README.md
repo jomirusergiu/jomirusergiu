@@ -23,11 +23,10 @@ While working in engineering for the past 15 years, I have had the privilege of 
 ・Mission Analysis, Observation Association,<br />
 Orbit Determination, Maneuvers Processing,<br />
 Rendezvous & Proximity, Sensor Calibration,<br />
+Operations, ReEntry & Conjunction Analysis,<br />
 Space Domain / Space Situation Awareness,<br />
-LEO, MEO, GEO, Lunar and Cis Lunar Orbits,<br />
 Orbital Mechanics, Flight & Astro Dynamics,<br />
 Statistics, Stochastics, Probability & Control<br />
-
 
 ### ※ Tools, Engines & Libraries:
 ・STK/ODTK/TETK, UMA, Cesium, ComSpoc,<br />
