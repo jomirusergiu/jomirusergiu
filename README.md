@@ -1,5 +1,5 @@
 ## Jomiru Sergiu
-Hello, my name is Sergiu Jomiru, and I am the Head of Aerospace Systems Engineering at LSAS Tec. Currently I am responsible for the aerospace systems research and development, architecture, planning, management, maintenance and quality control. 
+Hello, my name is Sergiu Jomiru, and I am the Head of Aerospace Systems Engineering at LSAS Tec. Currently I am responsible for the aerospace systems research and development, architecture, planning, management, maintenance, regression testing and quality control. 
 
 We are providing some of the most advanced space systems and solutions for situational awareness and mission analysis. We focus mainly on SSA and SDA, mission planning, simulations, orbit determination and sensor calibration, maneuver processing, observation association, re-entry analysis, conjunction analysis, launch analysis, RPOs, and overall flight dynamics for the entire mission lifecycle. 
 
