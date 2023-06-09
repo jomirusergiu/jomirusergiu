@@ -3,9 +3,9 @@ Hello, my name is Sergiu Jomiru, and I am the Head of Aerospace Systems Engineer
 
 We’re providing some of the most advanced space systems and solutions for situational awareness and mission analysis. We focus mainly on SSA and SDA, mission planning, simulations, orbit determination and sensor calibration, maneuver processing, observation association, re-entry analysis, conjunction analysis, launch analysis, RPOs, and overall flight dynamics for the entire mission lifecycle. 
 
-Our systems were used in multiple missions like ARTEMIS, JWST, LADEE, IBEX, ALOS or such satellite constellations as TDRSS, GPS, INTELSAT and many more. Our solutions have been used for decades by space and defense agencies like NASA, ESA, JAXA, ISAS, JMA, JMOD & JSDF as well as various private companies related to rockets, spacecrafts, aircrafts, satellites & mission control facilities.
+Our systems have been used in multiple missions like ARTEMIS, JWST, LADEE, IBEX, ALOS or such satellite constellations as TDRSS, GPS, INTELSAT and many more. Our solutions have been used for decades by space and defense agencies like NASA, ESA, JAXA, ISAS, JMA, JMOD and JSDF as well as various private companies related to rockets, spacecrafts, aircrafts, satellites and mission control facilities.
 
-While working in engineering for the past 15 years, I’ve had the privilege of contributing to development of space technologies, and gained the proper understanding on how important teamwork & cooperation is for achieving great goals and help build a better future.<br /><br />
+While working in engineering for the past 15 years, I have had the privilege of contributing to development of space technologies, and gained the proper understanding on how important teamwork & cooperation is for achieving great goals and help build a better future.<br /><br />
 
 
 ### ※ Areas of expertise:
