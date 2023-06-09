@@ -1,9 +1,11 @@
 ## Jomiru Sergiu
-Hello, my name is Sergiu, and I’m the Head of Aerospace Systems Engineering at LSAS Tec. I’m working on space, defense & intelligence systems R&D, SSA, mission planning, simulations, orbit determination, maneuver processing, observation association & flight dynamics.
+Hello, my name is Sergiu Jomiru, and I am the Head of Aerospace Systems Engineering at LSAS Tec. Currently I am responsible for the aerospace systems planning, management, architecture and R&D. 
 
-We’re providing some of the most advanced space systems solutions for situational awareness and mission analysis. Our systems were used in missions like ARTEMIS, JWST, LADEE, IBEX and many more, by world-class space and defense organizations such as NASA, ESA, CNES, JAXA, ISAS, JMA, JMOD & JSDF as well as various private manufacturers of rockets, spacecrafts, aircrafts, missiles and satellites.
+We’re providing some of the most advanced space systems and solutions for situational awareness and mission analysis. We focus mainly on SSA and SDA, mission planning, simulations, orbit determination and sensor calibration, maneuver processing, observation association, re-entry analysis, conjunction analysis, launch analysis, RPOs, and overall flight dynamics for the entire mission lifecycle. 
 
-While working in engineering for the past 15 years, I've gained the proper understanding on how important teamwork and cooperation is for achieving great goals, and I have also had the privilege of contributing to development of the space technologies for all mankind.<br /><br />
+Our systems were used in multiple missions like ARTEMIS, JWST, LADEE, IBEX, ALOS or such satellite constellations as TDRSS, GPS, INTELSAT and many more. Our solutions have been used for decades by space and defense agencies like NASA, ESA, JAXA, ISAS, JMA, JMOD & JSDF as well as various private companies related to rockets, spacecrafts, aircrafts, satellites & mission control facilities.
+
+While working in engineering for the past 15 years, I’ve had the privilege of contributing to development of space technologies, and gained the proper understanding on how important teamwork & cooperation is for achieving great goals and help build a better future.<br /><br />
 
 
 ### ※ Areas of expertise:
